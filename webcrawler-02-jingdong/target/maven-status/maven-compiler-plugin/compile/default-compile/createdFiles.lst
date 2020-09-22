@@ -1,0 +1,7 @@
+cn\itcast\jingdong\dao\ItemDao.class
+cn\itcast\jingdong\Application.class
+cn\itcast\jingdong\pojo\Item.class
+cn\itcast\jingdong\service\impl\ItemServiceImpl.class
+cn\itcast\jingdong\task\ItemTask.class
+cn\itcast\jingdong\util\HttpUtils.class
+cn\itcast\jingdong\service\ItemService.class
